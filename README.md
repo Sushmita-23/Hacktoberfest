@@ -10,7 +10,7 @@
 
 # Vocabulary Builder :book:
 
-An exhaustive collection of words as json files for easy access.
+An exhaustive collection of words as JSON files for easy access.
 
 
 ## How to contribute 
@@ -22,11 +22,15 @@ An exhaustive collection of words as json files for easy access.
 
 > [Fork this repository](https://help.github.com/articles/fork-a-repo/)
 
->  Clone the forked repository from your account
+>  Clone the forked repository from your account.
 
 > Add your JSON file to the respective folder.
 
 > Commit your changes with an appropriate message.
+
+> Comment about how you can actually improve or update that repo.
+
+> Try to add info and not spam it.
 
 > [Create a pull request](https://help.github.com/articles/creating-a-pull-request-from-a-fork/)
 
